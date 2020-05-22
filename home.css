@@ -1,0 +1,40 @@
+body
+{
+	background-image: url(images/bg.jpg);
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
+    background-attachment: fixed;
+     background-size: cover;
+}
+.content{
+	text-align: center;
+	font-size: 7em;
+	font-family: 'Bangers';
+
+	
+}
+h3{
+background: linear-gradient(330deg, #e05252 0%, #99e052 25%, #52e0e0 50%, #9952e0 75%, #e05252 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+margin-bottom: 0;
+}
+#btn
+{
+	text-align: center;
+	height: 60px;
+	width: 400px;
+	font-size: 0.20em;
+	text-align: center;
+	color: white;
+	border-radius: 100%;
+ background: #C82333;
+}
+a.hover
+{
+	cursor: pointer;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
